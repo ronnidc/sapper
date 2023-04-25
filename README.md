@@ -1,5 +1,7 @@
 # sapper
 
+*Archived April 25. 2023. Outdated - Use SvelteKit instead*
+
 [The next small thing in web development, powered by Svelte.](https://sapper.svelte.dev)
 
 
